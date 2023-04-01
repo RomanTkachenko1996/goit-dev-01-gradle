@@ -1,0 +1,12 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userEnabledRules">
+      <set>
+        <option value="LanguageTool.EN.WHITESPACE_PARAGRAPH" />
+        <option value="LanguageTool.EN.WRONG_APOSTROPHE" />
+        <option value="LanguageTool.EN.WHITESPACE_PARAGRAPH_BEGIN" />
+        <option value="LanguageTool.EN.NON_ENGLISH_CHARACTER_IN_A_WORD" />
+      </set>
+    </option>
+  </component>
+</application>
