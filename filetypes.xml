@@ -4,6 +4,7 @@
       <mapping pattern="file" type="AUTO_DETECTED" />
       <mapping ext="jrtc" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="db" approved="true" type="TOML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
