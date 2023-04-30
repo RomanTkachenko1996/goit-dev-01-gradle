@@ -26,6 +26,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.github.gitofleonardo.simplesqlitebrowser">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.javarush.plugin2">
           <value>
             <PluginData>
